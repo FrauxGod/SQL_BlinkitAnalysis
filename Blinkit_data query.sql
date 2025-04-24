@@ -1,1 +1,0 @@
-select * from Blinkit_Grocery;
